@@ -26,6 +26,7 @@ int getTriangleType(int a, int b, int c) {
         return -2;
     }
     else if (a * a + b * b == c * c) {
+        printf("kai duo!\n");
         return 0;
     }
     else if (a * a + b * b > c * c) {
