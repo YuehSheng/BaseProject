@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main(){
-    printf("¿é¤J«e¸m¦¡ : ");
+    printf("ï¿½ï¿½Jï¿½eï¿½mï¿½ï¿½ : ");
     char string[100];
     scanf("%s",string);
-    printf("·F§A¶ı®Vªİ\n");
+    printf("ï¿½Fï¿½Aï¿½ï¿½ï¿½Vï¿½ï¿½\n");
+
+    printf("å°é›é›\n");
 }
